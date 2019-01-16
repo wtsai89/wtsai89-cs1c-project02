@@ -18,7 +18,7 @@ import cs1c.SongEntry;
  * 
  * REMINDER:  Test your implementation against various budgets, including boundary cases.
  *
- * @author Foothill College, Bita M
+ * @author Foothill College, William Tsai
  */
 public class FoothillTunesStore 
 {	

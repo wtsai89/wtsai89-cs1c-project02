@@ -1,3 +1,330 @@
-// TODO: For every project run your program.
-//       Then copy and paste the output in a file titled RUN under resources folder. 
+*****ShoppingBag.java********
 
+/////////////////
+Test case 1:
+/////////////////
+
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+100
+The limit is greater than all items combined. Returning all items...
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 708620 ns
+Purchased grocery prices are:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+Done with ShoppingBag.
+
+/////////////////////
+Test case 2:
+/////////////////////
+
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+20
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 114889 ns
+Purchased grocery prices are:
+[2.5, 11.5, 6.0]
+Done with ShoppingBag.
+
+///////////////////
+Test case 3:
+///////////////////
+
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+17.4
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 572478 ns
+Purchased grocery prices are:
+[4.0, 7.0, 6.0]
+Done with ShoppingBag.
+
+
+
+*******FoothillTunesStore.java*********
+
+/////////////////
+Test case 1:
+/////////////////
+Welcome! We have over 59600 in FoothillTunes store!
+
+Enter the duration of your play list:
+2000
+Actual Playlist duration is 1998.0
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 23 ms : 575190 ns
+Songs in play list:
+[Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock
+, Screams, 0:3:10, Blue Oyster Cult, classic pop and rock
+, Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock
+, Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock
+, The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock
+, True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+, Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock
+, Demon's Kiss - Original, 0:3:53, Blue Oyster Cult, classic pop and rock
+, Spray That Scumbag - Original, 0:1:44, Blue Oyster Cult, classic pop and rock
+]
+Done with FoothillTunesStore.
+
+/////////////////
+Test case 2:
+/////////////////
+Welcome! We have over 59600 in FoothillTunes store!
+
+Enter the duration of your play list:
+55555
+Actual Playlist duration is 55554.0
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 103 ms : 773690 ns
+Songs in play list:
+[Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock
+, Screams, 0:3:10, Blue Oyster Cult, classic pop and rock
+, Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock
+, Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock
+, Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock
+, The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock
+, True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+, Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock
+, Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock
+, Demon's Kiss - Original, 0:3:53, Blue Oyster Cult, classic pop and rock
+, Remodeling - Original, 0:2:14, Blue Oyster Cult, classic pop and rock
+, Spray That Scumbag - Original, 0:1:44, Blue Oyster Cult, classic pop and rock
+, Shadows - Original, 0:0:25, Blue Oyster Cult, classic pop and rock
+, Screams, 0:3:10, Blue Oyster Cult, classic pop and rock
+, Redeemed, 0:3:52, Blue Oyster Cult, classic pop and rock
+, Workshop Of The Telescopes, 0:4:2, Blue Oyster Cult, classic pop and rock
+, What Is Quicksand, 0:3:41, Blue Oyster Cult, classic pop and rock
+, Dominenance And Submission, 0:5:50, Blue Oyster Cult, classic pop and rock
+, Godzilla, 0:7:50, Blue Oyster Cult, classic pop and rock
+, E.T.I. (Extra Terrestrial Intelligence), 0:3:47, Blue Oyster Cult, classic pop and rock
+, Don't Fear The Reaper, 0:6:5, Blue Oyster Cult, classic pop and rock
+, Me 262, 0:8:9, Blue Oyster Cult, classic pop and rock
+, I Love The Night, 0:4:30, Blue Oyster Cult, classic pop and rock
+, The Red & The Black, 0:4:29, Blue Oyster Cult, classic pop and rock
+, I Love The Night, 0:4:28, Blue Oyster Cult, classic pop and rock
+, Joan Crawford, 0:4:56, Blue Oyster Cult, classic pop and rock
+, Cities On Flame With Rock And Roll, 0:4:5, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:6:43, Blue Oyster Cult, classic pop and rock
+, Dr. Music, 0:3:40, Blue Oyster Cult, classic pop and rock
+, The Red And The Black, 0:4:39, Blue Oyster Cult, classic pop and rock
+, Dominance And Submission, 0:5:59, Blue Oyster Cult, classic pop and rock
+, Black Blade, 0:6:17, Blue Oyster Cult, classic pop and rock
+, Cities On Flame, 0:5:20, Blue Oyster Cult, classic pop and rock
+, Godzilla, 0:7:46, Blue Oyster Cult, classic pop and rock
+, The Red And The Black, 0:4:32, Blue Oyster Cult, classic pop and rock
+, Vengeance, 0:4:42, Blue Oyster Cult, classic pop and rock
+, Fire Of Unknown Origin, 0:4:11, Blue Oyster Cult, classic pop and rock
+, Sole Survivor, 0:4:6, Blue Oyster Cult, classic pop and rock
+, Model Citizen, 0:3:13, The Rags, classic pop and rock
+, The Great Sun Jester, 0:4:48, Blue Oyster Cult, classic pop and rock
+, Lonely Teardrops, 0:3:43, Blue Oyster Cult, classic pop and rock
+, You're Not The One (I Was Looking For), 0:3:15, Blue Oyster Cult, classic pop and rock
+, Mirrors, 0:3:46, Blue Oyster Cult, classic pop and rock
+, Don't Fear The Reaper (Album Version), 0:5:9, Blue Oyster Cult, classic pop and rock
+, (Then Came The) Last Of May, 0:4:40, Blue Oyster Cult, classic pop and rock
+, M.E. 262, 0:8:15, Blue Oyster Cult, classic pop and rock
+, Buck's Boogie, 0:7:6, Blue Oyster Cult, classic pop and rock
+, The Red And The Black, 0:4:24, Blue Oyster Cult, classic pop and rock
+, The Subhuman, 0:7:31, Blue Oyster Cult, classic pop and rock
+, I'm On The Lamb But I Ain't No Sheep, 0:3:11, Blue Oyster Cult, classic pop and rock
+, Buck's Boogie, 0:5:23, Blue Oyster Cult, classic pop and rock
+, True Confessions, 0:2:57, Blue Oyster Cult, classic pop and rock
+, Transmaniacon MC, 0:3:23, Blue Oyster Cult, classic pop and rock
+, Teen Archer, 0:3:58, Blue Oyster Cult, classic pop and rock
+, Tattoo Vampire, 0:2:41, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:6:19, Blue Oyster Cult, classic pop and rock
+, I AM THE STORM, 0:3:44, Blue Oyster Cult, classic pop and rock
+, Cities On Flame With Rock And Roll, 0:4:44, Blue Oyster Cult, classic pop and rock
+, Sally, 0:2:40, Blue Oyster Cult, classic pop and rock
+, Sinful Love, 0:3:30, Blue Oyster Cult, classic pop and rock
+, 7 Screaming Diz-Busters, 0:14:1, Blue Oyster Cult, classic pop and rock
+, Career Of Evil, 0:3:2, Blue Oyster Cult, classic pop and rock
+, Subhuman, 0:4:39, Blue Oyster Cult, classic pop and rock
+, Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock
+, Dominance And Submission, 0:5:23, Blue Oyster Cult, classic pop and rock
+, Astronomy, 0:6:29, Blue Oyster Cult, classic pop and rock
+, Harvester Of Eyes, 0:4:42, Blue Oyster Cult, classic pop and rock
+, Kick Out The Jams, 0:3:8, Blue Oyster Cult, classic pop and rock
+, We Gotta Get Out Of This Place, 0:4:36, Blue Oyster Cult, classic pop and rock
+, We Gotta Get Out Of This Place, 0:4:36, Blue Oyster Cult, classic pop and rock
+, This Ain't The Summer Of Love, 0:2:48, Blue Oyster Cult, classic pop and rock
+, Born To Be Wild, 0:6:33, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:6:11, Blue Oyster Cult, classic pop and rock
+, Dial M For Murder, 0:3:11, Blue Oyster Cult, classic pop and rock
+, Please Hold, 0:2:47, Blue Oyster Cult, classic pop and rock
+, Goin' Through The Motions, 0:3:13, Blue Oyster Cult, classic pop and rock
+, Nosferatu, 0:5:24, Blue Oyster Cult, classic pop and rock
+, Night Flyer, 0:3:49, Blue Oyster Cult, classic pop and rock
+, 7 Screaming Diz-Busters, 0:7:1, Blue Oyster Cult, classic pop and rock
+, Stairway To The Stars, 0:3:46, Blue Oyster Cult, classic pop and rock
+, Burnin' For You, 0:4:33, Blue Oyster Cult, classic pop and rock
+, The Marshall Plan, 0:5:26, Blue Oyster Cult, classic pop and rock
+, Death Valley Nights, 0:4:11, Blue Oyster Cult, classic pop and rock
+, ME 262, 0:4:48, Blue Oyster Cult, classic pop and rock
+, Black Blade, 0:6:30, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:3:50, Blue Oyster Cult, classic pop and rock
+, Shadow Of California, 0:5:11, Blue Oyster Cult, classic pop and rock
+, Veins, 0:3:58, Blue Oyster Cult, classic pop and rock
+, Astronomy, 0:4:13, Blue Oyster Cult, classic pop and rock
+, Fallen Angel, 0:3:13, Blue Oyster Cult, classic pop and rock
+, Burnin' For You, 0:3:44, Blue Oyster Cult, classic pop and rock
+, Hot Rails To Hell, 0:5:12, Blue Oyster Cult, classic pop and rock
+, 7 Screaming Diz-Busters, 0:14:1, Blue Oyster Cult, classic pop and rock
+, M.E. 262, 0:8:17, Blue Oyster Cult, classic pop and rock
+, Golden Age Of Leather, 0:5:53, Blue Oyster Cult, classic pop and rock
+, Stairway To The Stars, 0:3:43, Blue Oyster Cult, classic pop and rock
+, Take Me Away, 0:4:32, Blue Oyster Cult, classic pop and rock
+, Harvester Of Eyes, 0:5:0, Blue Oyster Cult, classic pop and rock
+, This Ain't The Summer Of Love, 0:2:23, Blue Oyster Cult, classic pop and rock
+, E.T.I. (Extra Terrestrial Intelligence), 0:3:44, Blue Oyster Cult, classic pop and rock
+, Career Of Evil, 0:4:9, Blue Oyster Cult, classic pop and rock
+, WorkShop Of The Telescopes, 0:3:49, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:5:9, Blue Oyster Cult, classic pop and rock
+, All Through The Night, 0:4:56, Tone-Loc, classic pop and rock
+, Freaky Behavior, 0:4:41, Tone-Loc, classic pop and rock
+, Funky Westside Reprise, 0:2:32, Tone-Loc, classic pop and rock
+, I Joke But I Don't Play, 0:4:27, Tone-Loc, classic pop and rock
+, Funky Westside, 0:4:51, Tone-Loc, classic pop and rock
+, Fatal Attraction, 0:4:4, Tone-Loc, classic pop and rock
+, Mean Green, 0:5:25, Tone-Loc, classic pop and rock
+, Why, 0:5:0, Tone-Loc, classic pop and rock
+, I Adore You, 0:4:23, Tone-Loc, classic pop and rock
+, Pimp Without A Caddy, 0:5:9, Tone-Loc, classic pop and rock
+, Hip Hop It Is Kinda Different, 0:5:1, Tone-Loc, classic pop and rock
+, Don't Get Close, 0:3:41, Tone-Loc, classic pop and rock
+, Loc'in On The Shaw, 0:4:23, Tone-Loc, classic pop and rock
+, Cheeba Cheeba, 0:6:7, Tone-Loc, classic pop and rock
+, Cuttin Rhythms, 0:5:11, Tone-Loc, classic pop and rock
+, On Fire (Remix), 0:4:51, Tone-Loc, classic pop and rock
+, Next Episode, 0:4:1, Tone-Loc, classic pop and rock
+, The Homies, 0:3:51, Tone-Loc, classic pop and rock
+, I Got It Goin' On, 0:4:33, Tone-Loc, classic pop and rock
+, Loc'ed After Dark, 0:5:12, Tone-Loc, classic pop and rock
+, Wild Thing, 0:4:0, Tone Loc, classic pop and rock
+, Funky Cold Medina, 0:4:10, Various Artists - Delicious Vinyl, classic pop and rock
+, Wild Thing (Re-Recorded / Remastered), 0:4:23, Tone-Loc, classic pop and rock
+, Wild Thing (Club Crasher Mix), 0:4:57, Tone-Loc, classic pop and rock
+, Funky Cold Medina (Club Crasher Remix), 0:4:35, Tone-Loc, classic pop and rock
+, Funky Cold Medina (Re-Recorded / Remastered), 0:4:10, Tone-Loc, classic pop and rock
+, Wild Thing (Chemical Toast Remix), 0:5:9, Tone-Loc, classic pop and rock
+, Evening Comes Up (Album Version), 0:4:49, Meic Stevens, classic pop and rock
+, Ballad Of Old Joe Blind (Alternate Version), 0:2:30, Meic Stevens, classic pop and rock
+, Left Over Time (Album Version), 0:4:36, Meic Stevens, classic pop and rock
+, Where Have All My People Gone (Album Version), 0:2:27, Meic Stevens, classic pop and rock
+, Lying To Myself (Album Version), 0:2:47, Meic Stevens, classic pop and rock
+, Blue Sleep (Album Version), 0:3:58, Meic Stevens, classic pop and rock
+, The Sailor And Madonna (Album Version), 0:5:35, Meic Stevens, classic pop and rock
+, Ghost Town (Album Version), 0:5:50, Meic Stevens, classic pop and rock
+, Rowena (Full Version), 0:4:42, Meic Stevens, classic pop and rock
+, All About A Dream (Album Version), 0:3:21, Meic Stevens, classic pop and rock
+, Dau Rhosyn Coch (Album Version), 0:2:44, Meic Stevens, classic pop and rock
+, Great Houdini (Album Version), 0:3:28, Meic Stevens, classic pop and rock
+, Yorric (Album Version), 0:8:49, Meic Stevens, classic pop and rock
+, Ballad Of Old Joe Blind (Album Version), 0:2:31, Meic Stevens, classic pop and rock
+, The Sailor And Madonna (Early Version), 0:4:9, Meic Stevens, classic pop and rock
+, Upon The Mountain (Album Version), 0:2:22, Meic Stevens, classic pop and rock
+, Ox Blood (Album Version), 0:1:15, Meic Stevens, classic pop and rock
+, Yorric (Early Version), 0:5:38, Meic Stevens, classic pop and rock
+, Midnight Comes (Album Version), 0:3:9, Meic Stevens, classic pop and rock
+, Loved Owed (aka Love Ode) (Album Version), 0:3:23, Meic Stevens, classic pop and rock
+, Shw Mae_ Shw Mae?, 0:4:17, Meic Stevens, classic pop and rock
+, Flavor Of The Weak, 0:3:9, American Hi-Fi, classic pop and rock
+, A Bigger Mood, 0:3:39, American Hi-Fi, classic pop and rock
+, Safer On The Outside, 0:4:2, American Hi-Fi, classic pop and rock
+, What About Today, 0:3:35, American Hi-Fi, classic pop and rock
+, Surround, 0:3:12, American Hi-Fi, classic pop and rock
+, Don't Wait For The Sun, 0:3:51, American Hi-Fi, classic pop and rock
+, Wall Of Sound, 0:5:49, American Hi-Fi, classic pop and rock
+, My Only Enemy, 0:3:27, American Hi-Fi, classic pop and rock
+, Blue Day, 0:3:33, American Hi-Fi, classic pop and rock
+, Another Perfect Day, 0:3:39, American Hi-Fi, classic pop and rock
+, Black Satellite, 0:3:11, American Hi-Fi, classic pop and rock
+, Hi-Fi Killer, 0:3:6, American Hi-Fi, classic pop and rock
+, Scar, 0:4:4, American Hi-Fi, classic pop and rock
+, Hearts On Parade (Album Version), 0:5:24, American Hi-Fi, classic pop and rock
+, Where Did We Go Wrong (Album Version), 0:3:7, American Hi-Fi, classic pop and rock
+, Something Real (Album Version), 0:3:51, American Hi-Fi, classic pop and rock
+, Baby Come Home (Album Version), 0:2:52, American Hi-Fi, classic pop and rock
+, Separation Anxiety (Album Version), 0:3:36, American Hi-Fi, classic pop and rock
+, Maybe Won't Do (Album Version), 0:3:27, American Hi-Fi, classic pop and rock
+, Hell Yeah! (Album Version), 0:3:7, American Hi-Fi, classic pop and rock
+, Highs And Lows (Album Version), 0:3:18, American Hi-Fi, classic pop and rock
+, The Geeks Get The Girls (Album Version), 0:2:51, American Hi-Fi, classic pop and rock
+, We Can't Be Friends (Album Version), 0:3:23, American Hi-Fi, classic pop and rock
+, The Everlasting Fall (Album Version), 0:3:30, American Hi-Fi, classic pop and rock
+, The Break Up Song (Live-Milwaukee), 0:3:9, American Hi-Fi, classic pop and rock
+, We Can't Be Friends (Live-Milwaukee), 0:3:43, American Hi-Fi, classic pop and rock
+, Flavor Of The Week (Live-Milwaukee), 0:3:23, American Hi-Fi, classic pop and rock
+, The Art Of Losing (Live-Milwaukee), 0:4:14, American Hi-Fi, classic pop and rock
+, Separation Anxiety (Live-Milwaukee), 0:3:31, American Hi-Fi, classic pop and rock
+, Surround (Live-Milwaukee), 0:4:4, American Hi-Fi, classic pop and rock
+, Another Perfect Day (Live-Milwaukee), 0:4:10, American Hi-Fi, classic pop and rock
+, Happy (Live-Milwaukee), 0:5:19, American Hi-Fi, classic pop and rock
+, Hi-Fi Killer (Live-Milwaukee), 0:3:18, American Hi-Fi, classic pop and rock
+, The Geeks Get The Girls (Live-Milwaukee), 0:3:0, American Hi-Fi, classic pop and rock
+, Nothing Left To Lose (Live-Milwaukee), 0:3:6, American Hi-Fi, classic pop and rock
+, The Rescue (Album Version), 0:3:17, American Hi-Fi, classic pop and rock
+, Nothing Left To Lose, 0:2:58, American Hi-Fi, classic pop and rock
+, Flavor Of The Weak, 0:3:42, American Hi-Fi, classic pop and rock
+, Hi-Fi Killer, 0:3:17, American Hi-Fi, classic pop and rock
+, Save Me, 0:3:57, American Hi-Fi, classic pop and rock
+, A Bigger Mood, 0:3:47, American Hi-Fi, classic pop and rock
+, This Is The Sound, 0:4:11, American Hi-Fi, classic pop and rock
+, Beautiful Disaster, 0:2:40, American Hi-Fi, classic pop and rock
+, Happy, 0:4:6, American Hi-Fi, classic pop and rock
+, When The Breeders Were Big, 0:3:40, American Hi-Fi, classic pop and rock
+, The Art Of Losing, 0:3:26, American Hi-Fi, classic pop and rock
+, The Break Up Song, 0:2:56, American Hi-Fi, classic pop and rock
+, Teenage Alien Nation, 0:3:3, American Hi-Fi, classic pop and rock
+, Built For Speed, 0:2:48, American Hi-Fi, classic pop and rock
+, Rise, 0:3:10, American Hi-Fi, classic pop and rock
+, The Gold Rush, 0:3:40, American Hi-Fi, classic pop and rock
+, In A Certain Place, 0:3:13, Lady Bug Transistor, classic pop and rock
+, Words Hang In The Air, 0:2:15, Lady Bug Transistor, classic pop and rock
+, Echoes, 0:3:59, Lady Bug Transistor, classic pop and rock
+, Fires On The Ocean, 0:3:20, Lady Bug Transistor, classic pop and rock
+, Wooden Bars, 0:3:43, Lady Bug Transistor, classic pop and rock
+, Nico Norte, 0:3:48, Lady Bug Transistor, classic pop and rock
+, The Glass Pane, 0:3:51, Lady Bug Transistor, classic pop and rock
+, The Reclusive Hero, 0:3:31, Lady Bug Transistor, classic pop and rock
+, Perfect For Shattering, 0:3:6, Lady Bug Transistor, classic pop and rock
+, Fjords Of Winter, 0:2:56, Lady Bug Transistor, classic pop and rock
+, Catherine Elizabeth, 0:2:55, Lady Bug Transistor, classic pop and rock
+, Caton Gardens, 0:2:54, Lady Bug Transistor, classic pop and rock
+, Brighton Bound, 0:2:55, Lady Bug Transistor, classic pop and rock
+, Going Up North (Icicles), 0:4:3, Lady Bug Transistor, classic pop and rock
+, Here Comes The Rain, 0:3:14, The Ladybug Transistor, classic pop and rock
+, Broken Links, 0:2:52, The Ladybug Transistor, classic pop and rock
+, Terry, 0:3:23, The Ladybug Transistor, classic pop and rock
+]
+Done with FoothillTunesStore.
+
+/////////////////
+Test case 3:
+/////////////////
+
+Enter the duration of your play list:
+999
+Actual Playlist duration is 996.0
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 22 ms : 410693 ns
+Songs in play list:
+[Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock
+, Screams, 0:3:10, Blue Oyster Cult, classic pop and rock
+, Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock
+, (Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock
+, Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock
+]
+Done with FoothillTunesStore.

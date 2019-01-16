@@ -14,7 +14,7 @@ import cs1c.TimeConverter;
  *           Do this by creating your own input file.
  *           Test your implementation against various budgets, including boundary cases.
  *
- * @author Foothill College, Bita M
+ * @author Foothill College, William Tsai
  */
 public class ShoppingBag 
 {
