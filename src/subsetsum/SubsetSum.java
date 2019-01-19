@@ -69,7 +69,7 @@ public class SubsetSum {
             int innerSize = col.size();         //prevent infinite looping
             for(int j = 0; j < innerSize; j++)                                 //Loop over all subsets, L, that are already members of Col
             {
-                if((largest.getDuration() - (col.get(j)).getDuration()) > (averageSongDuration * 2))       //discard unnecessary subsets that are smaller than the current largest viable subset
+                if((largest.getDuration() - (col.get(j)).getDuration()) > averageSongDuration)       //discard unnecessary subsets that are smaller than the current largest viable subset
                 {
                     col.remove(j);
                     j--;
